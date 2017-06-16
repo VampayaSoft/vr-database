@@ -14,3 +14,5 @@ npm install/ yarn
 ### Start development server with hot reloading
 
 npm run dev/ yarn run dev
+
+open http://localhost:3000 on a new browser tab
