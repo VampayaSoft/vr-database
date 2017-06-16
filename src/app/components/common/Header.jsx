@@ -10,12 +10,12 @@ function Header() {
             <Link to="/">Home</Link>
           </li>
           <li>
-            <Link to="/about">About</Link>
+            <Link to="/list">Movie List</Link>
           </li>
         </ul>
       </nav>
     </header>
-  )
+  );
 }
 
 export default Header;
